@@ -24,7 +24,7 @@ para Portal de associados da CDL BH.
    <td align="center"><a href="https://github.com/Serpa27"><img src="https://avatars.githubusercontent.com/u/90014363?v=4" width="100px;" alt=""/><br /><sub><b>Mariane Serpa</b></sub></a></td>
      
      
-   <td align="center"><a href="https://github.com/PabloCassio"><img src="" width="100px;" alt=""/><br /><sub><b>Pablo Cassio</b></sub></a></td>
+   <td align="center"><a href="https://github.com/PabloCassio"><img src="https://avatars.githubusercontent.com/u/82393094?v=4" width="100px;" alt=""/><br /><sub><b>Pablo Cassio</b></sub></a></td>
      
    <td align="center"><a href="https://github.com/Taynaratalia"><img src="https://avatars.githubusercontent.com/u/56594284?v=4" width="100px;" alt=""/><br /><sub><b>Taynara Talia</b></sub></a></td>  
      
