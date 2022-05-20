@@ -15,11 +15,6 @@ para Portal de associados da CDL BH.
 - 📌Entender a jornada para compreender o que é oferecido pelo site e como o associado consegue atingir uma solução;
 - 📌Experiência do cliente no acesso ao site, que já está posto
 
- 
-# Contribuição
-
-Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
-
 # Autores
 <div>
  <table>
