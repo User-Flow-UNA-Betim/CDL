@@ -1,7 +1,7 @@
 # USER-FLOW
 
 <tr>
-   <td align="center"><a><img src="./img/logo.png" width="500px;"/a></td>
+   <p align="center"><img src="./img/logo.png" width="250px;"/></p>
 </tr>
 
 # Sobre o Projeto
